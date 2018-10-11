@@ -1,6 +1,0 @@
-13:55:48.283 [main] DEBUG com.logtest.CarService - processing car: BMW 
-14:39:24.255 [main] DEBUG com.logtest.CarService - processing car: BMW 
-14:39:29.678 [main] DEBUG com.logtest.CarService - processing car: BMW 
-14:40:04.737 [main] DEBUG com.logtest.CarService - processing car: BMW 
-14:41:14.428 [main] DEBUG com.logtest.CarService - processing car: BMW 
-15:03:29.612 [main] DEBUG com.logtest.CarService - processing car: BMW 
