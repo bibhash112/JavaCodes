@@ -3,12 +3,12 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.parkingLot</groupId>
-	<artifactId>Parking-lot</artifactId>
+	<groupId>com.daysCalulator</groupId>
+	<artifactId>spring-logger</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>Parking-lot</name>
+	<name>spring-logger</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
@@ -35,6 +35,28 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		
+		<!-- <dependency>
+            <groupId>org.slf4j</groupId>
+   		    <artifactId>slf4j-api</artifactId>
+            <version>1.7.5</version>$NO-MVN-MAN-VER$
+		</dependency>
+		<dependency>
+   		    <groupId>ch.qos.logback</groupId>
+    		<artifactId>logback-core</artifactId>
+   		</dependency>
+		
+		<dependency>
+   		    <groupId>ch.qos.logback</groupId>
+    		<artifactId>logback-classic</artifactId>
+   		</dependency> -->
+		<!-- https://mvnrepository.com/artifact/junit/junit -->
+<dependency>
+    <groupId>junit</groupId>
+    <artifactId>junit</artifactId>
+    <scope>test</scope>
+</dependency>
+		
 	</dependencies>
 
 	<build>
